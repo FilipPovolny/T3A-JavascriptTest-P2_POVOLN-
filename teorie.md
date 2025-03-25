@@ -2,15 +2,25 @@
 
 ## Jaké jsou datové typy v Javascriptu?
 -String 
+
 -Number
+
 -Biglnt
+
 -Boolean
+
 -Undefined
+
 -Null
+
 -Symbol
+
 -Object
+
 -Array
+
 -Function
+
 ## Jaký je rozdíl v porovnání pomocí `!=` a `!==`?
 != porovnává hodnoty, ale ignoruje typy
 !== (pořádně) porovnává jak hodnoty, tak typy 

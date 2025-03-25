@@ -29,4 +29,4 @@
 ## Jak se používá a k čemu slouží funkce `map()` nad polem (array)?
 -slouží k transformaci prvků pole podle zadané funkce a vrací nové pole s upravenými hodnotami bez změny původního pole
 ## Jaké jsou rozdíli mezi polem (array) a Map kolekcí?
-- Arrayslouží k uchování uspořádaného seznamu hodnot s číselnými indexy, zatímco Map je kolekce klíč-hodnota, kde klíče mohou být jakéhokoliv typu.
+-Array slouží k uchování uspořádaného seznamu hodnot s číselnými indexy, zatímco Map je kolekce klíč-hodnota, kde klíče mohou být jakéhokoliv typu.
